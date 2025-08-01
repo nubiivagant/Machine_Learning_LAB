@@ -20,7 +20,7 @@ This repository contains practical implementations of essential Machine Learning
 | 📈 Linear Regression      | Predictive modeling using least squares method.                            |
 | 🧪 Logistic Regression    | Binary classification using sigmoid-based decision boundaries.             |
 | 🔻 PCA                    | Dimensionality reduction with explained variance plots and 2D projections. |
-
+| 👥 K-Nearest Neighbors    | Instance-based learning for classification using Euclidean distance         |
 ---
 
 ## 📊 Dataset Overview
