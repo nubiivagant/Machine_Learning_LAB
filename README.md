@@ -5,27 +5,6 @@ The focus is on understanding the fundamentals of **data preprocessing, supervis
 
 ---
 
-## 📂 Repository Overview
-
-| File Name | Description |
-|------------|-------------|
-| **Breast_cancer_decisiontree.ipynb** | Classification using Decision Tree on Breast Cancer dataset. |
-| **Handling_missing_data.ipynb** | Demonstrates missing data detection and imputation techniques. |
-| **KNearestNeighbours.ipynb** | Implementation of KNN for classification using distance-based learning. |
-| **Kmeans.ipynb** | Unsupervised learning using K-Means clustering algorithm. |
-| **Linear_Regression.ipynb** | Simple Linear Regression implementation and visualization. |
-| **Linear_Regression_on_Salary_Data.ipynb** | Regression modeling on real-world salary prediction data. |
-| **Logisticregression.ipynb** | Binary classification using Logistic Regression. |
-| **ML_LAB_prac_2.ipynb** | Consolidated ML lab practice notebook covering multiple algorithms. |
-| **Naive Bayes.ipynb** | Probabilistic classification using Gaussian Naive Bayes. |
-| **PCA.ipynb** | Principal Component Analysis for dimensionality reduction and visualization. |
-| **PolynomialRegression.ipynb** | Demonstrates polynomial regression and model fitting. |
-| **Random Forest Classifier.ipynb** | Ensemble learning using Random Forest for classification. |
-| **decision_tree_Diabetesdata.ipynb** | Decision Tree classification on Diabetes dataset. |
-| **README.md** | Documentation for all ML lab implementations. |
-
----
-
 ## 🎯 Objectives
 
 - Handle real-world datasets with missing or inconsistent values.
